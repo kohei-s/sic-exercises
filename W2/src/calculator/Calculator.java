@@ -18,7 +18,7 @@ public class Calculator {
 
         System.out.println("Enter your favorite number: ");
         int num3 = scanner.nextInt();
-        System.out.println("Enter your favorite number is: " + num3);
+        System.out.println("Your favorite number is: " + num3);
 
     }
 }
